@@ -1,3 +1,8 @@
+/*
+    Solution to Contest 244 - Problem A.
+    http://codeforces.com/contest/244/problem/A
+*/
+
 #include <iostream>
 #include <set>
 

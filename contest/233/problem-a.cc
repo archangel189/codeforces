@@ -1,3 +1,8 @@
+/*
+    Solution to Contest 233 - Problem A.
+    http://codeforces.com/contest/233/problem/A
+*/
+
 #include <iostream>
 #include <vector>
 #include <utility>
