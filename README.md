@@ -1,3 +1,3 @@
 # codeforces
 
-Solutions to problems in CodeForces
+Solutions to problems on the [CodeForces](http://codeforces.com/) website.
