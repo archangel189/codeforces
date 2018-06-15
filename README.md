@@ -1,6 +1,6 @@
 # codeforces
 
-Solutions to problems on the [CodeForces](http://codeforces.com/) website.
+Solutions to competitive programming problems on the [CodeForces](http://codeforces.com/) website.
 
 # Contests
 
